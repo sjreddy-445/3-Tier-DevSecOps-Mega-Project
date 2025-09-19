@@ -48,4 +48,4 @@ spec:
     - hosts:
         - sjreddy.xyz
         - www.sjreddy.xyz
-      secretName: adityajaiswal-co-tls
+      secretName: sjreddy-co-tls
